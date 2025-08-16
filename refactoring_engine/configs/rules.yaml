@@ -1,0 +1,6 @@
+# Refactor patterns (e.g., extract-class, DRY)
+patterns:
+  - extract_class
+  - extract_method
+  - split_large_class
+  - remove_duplicate_code

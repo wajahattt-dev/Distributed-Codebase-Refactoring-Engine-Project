@@ -1,0 +1,7 @@
+astor
+fastapi
+pydantic
+gitpython
+pytest
+openai
+uvicorn
